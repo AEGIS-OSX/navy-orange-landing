@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/navy-orange-landing/cleo/1780586845549-hero.png",
+    "alt": "Left-anchored hero: matte device mockup on the right and a tight headline panel on the left, set in deep navy with a warm orange key from camera-left. Fits the brief by prioritizing instrument-room cl",
+    "width": 1920,
+    "height": 1080
+  },
+  "feature_1": {
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/navy-orange-landing/cleo/1780586996863-feature_1.png",
+    "alt": "Close-up of an orange control knob and nearby ports on a matte surface, shot tight to show texture and instrument-like details. Matches the tactile, late-night control-room mood and reinforces the ora",
+    "width": 800,
+    "height": 600
+  },
+  "feature_2": {
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/navy-orange-landing/cleo/1780587163616-feature_2.png",
+    "alt": "Overhead system-diagram: geometric orange linework over navy, kept restrained for documentation sections. Deep focus keeps all connections legible and matches the brief’s instruction to use system-sty",
+    "width": 800,
+    "height": 600
+  },
+  "feature_3": {
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/navy-orange-landing/cleo/1780586698719-feature_3.png",
+    "alt": "Stacked UI cards and a pinned code snippet on deep-slate panels, using warm orange accents for CTAs; designed to read left-to-right and support explanations of composable developer features.",
+    "width": 800,
+    "height": 600
+  },
+  "social_proof": {
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/navy-orange-landing/cleo/1780586845175-social_proof.png",
+    "alt": "Textured navy testimonial background with a warm orange halo and a tactile foreground object; intended as a subtle accent behind quotes or partner logos, reinforcing the late-night instrument-room moo",
+    "width": 1200,
+    "height": 800
+  }
+}
