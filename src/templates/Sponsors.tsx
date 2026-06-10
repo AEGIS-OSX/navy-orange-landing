@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-import { Section } from '@/layout/Section';
+import { Section } from '../layout/Section';
 
 const Sponsors = () => (
   <Section
@@ -17,7 +17,7 @@ const Sponsors = () => (
             >
               <Image
                 src="/assets/images/clerk-logo-dark.png"
-                alt="Clerk – Authentication & User Management for Next.js"
+                alt="Clerk \u2013 Authentication & User Management for Next.js"
                 width={260}
                 height={224}
               />
