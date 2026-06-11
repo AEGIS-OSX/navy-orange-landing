@@ -1,5 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
 @tailwind base;
 
 @tailwind components;
 
 @tailwind utilities;
+
+:root {
+  --color-primary: #0A2540;
+  --color-accent: #FF6A00;
+  --color-bg: #0A2540;
+  --color-text: #FFFFFF;
+  --color-muted: #B8BEC3;
+  --color-border: #122231;
+  --space-base: 8px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --font-display: 'Inter', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+html, body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
